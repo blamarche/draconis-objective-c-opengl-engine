@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Version=0.94
+Categories=GNUstep
+Exec=openapp Draconis.app
+#TryExec=Draconis.app
+FilePattern=Draconis.app;Draconis
